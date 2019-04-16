@@ -1,4 +1,3 @@
-```Visual Basic
 Option Explicit
 
 Private Sub Chart_BeforeDoubleClick(ByVal ElementID As Long, ByVal Arg1 As Long, ByVal Arg2 As Long, Cancel As Boolean)
@@ -22,4 +21,3 @@ Private Sub Chart_BeforeDoubleClick(ByVal ElementID As Long, ByVal Arg1 As Long,
     End With
 
 End Sub
-```
